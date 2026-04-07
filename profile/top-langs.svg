@@ -130,7 +130,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="247.4"
+          width="247.38"
           height="8"
           fill="#f34b7d"
         />
@@ -138,7 +138,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="247.4"
+          x="247.38"
           y="0"
           width="11.41"
           height="8"
@@ -148,7 +148,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="248.81"
+          x="248.79"
           y="0"
           width="10.56"
           height="8"
@@ -158,9 +158,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="249.37"
+          x="249.35"
           y="0"
-          width="10.47"
+          width="10.48"
           height="8"
           fill="#000080"
         />
@@ -168,7 +168,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="249.84"
+          x="249.82999999999998"
           y="0"
           width="10.1"
           height="8"
@@ -178,11 +178,11 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="249.94"
+          x="249.92999999999998"
           y="0"
           width="10.06"
           height="8"
-          fill="#DA3434"
+          fill="#178600"
         />
       
       
@@ -191,7 +191,7 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#f34b7d" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C++ 98.96%
+        C++ 98.95%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
@@ -224,9 +224,9 @@
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
-      <circle cx="5" cy="6" r="5" fill="#DA3434" />
+      <circle cx="5" cy="6" r="5" fill="#178600" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        CMake 0.02%
+        C# 0.03%
       </text>
     </g>
   </g></g>
